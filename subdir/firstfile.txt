@@ -1,3 +1,4 @@
 first file in new repo
 one more line was added
 third line
+The weather is sunny
