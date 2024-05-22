@@ -2,4 +2,3 @@ first file in new repo
 one more line
 third line
 The weather is sunny
-there are no clouds
