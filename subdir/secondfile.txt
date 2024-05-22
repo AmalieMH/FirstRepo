@@ -1,6 +1,3 @@
 second file in new repo
-<<<<<<< HEAD
 new line here, remember to add water
-=======
-new line here, remember to add water
->>>>>>> addWeather
+
